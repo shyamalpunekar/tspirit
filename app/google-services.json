@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1046981237586",
+    "firebase_url": "https://livelife-6f969.firebaseio.com",
+    "project_id": "livelife-6f969",
+    "storage_bucket": "livelife-6f969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046981237586:android:9b3e9182978ef107",
+        "android_client_info": {
+          "package_name": "com.yourheaven.search.livelife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046981237586-k7tuabuc6k84pd2f01rg71fooas28h5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPIsgbeQ5ihWuZQQjnjcTwXuMgqFitws4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
